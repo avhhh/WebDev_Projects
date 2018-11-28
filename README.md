@@ -12,7 +12,6 @@ Technology used: Visual Studios Community 2017
 - Lab3 - Four-function calculator (C#, HTML5, CSS)
 - Lab4 - 8-character anagram finder (C#, HTML5, CSS)
 - Lab5 - Currency Converter (C#, HTML5, CSS)
-- Lab6 - Online Voting System (C#, HTML5, CSS, SQL)
 
 ## Possible Future Updates
 - Include Javascript & more dynamic webpages
